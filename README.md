@@ -1,4 +1,4 @@
-# BUSA3022
+# BUSA3022 Analytics implementation plan and portfolio
 ## Project Overview
 
 This project explores Australian share-market trends using ASX 200 data and the RBA Cash Rate Target. It includes data sources and Python notebooks demonstrating parts of the proposed analytics pipeline.
