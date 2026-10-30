@@ -19,9 +19,9 @@ This project explores Australian share-market trends using ASX 200 data and the 
 
 ## Data Sources
 
-- Yahoo Finance: https://au.finance.yahoo.com/quote/%5EAXJO/history/
+- Yahoo Finance: https://au.finance.yahoo.com/quote/%5EAXJO/history/?period1=1761091200&period2=1792627200
 
-- Reserve Bank of Australia:(https://www.rba.gov.au/statistics/tables/) 
+- Reserve Bank of Australia: https://www.rba.gov.au/statistics/tables/
 
 Both datasets were retrieved on 22 October 2026.
 
