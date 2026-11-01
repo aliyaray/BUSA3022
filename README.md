@@ -17,6 +17,10 @@ This project explores Australian share-market trends using ASX 200 data and the 
 
 - Part 2: Data Curation – demonstrates data preparation and calculation of a 20-trading-day rolling average.
 
+## Power BI Dashboard
+
+- Part 3: Includes the portfolio dashboard artifact and a working proof of concept, featuring ASX 200 market trends, a rolling average, RBA Cash Rate Target overlay, key performance indicators and a RAG alert.
+
 ## Data Sources
 
 - Yahoo Finance: https://au.finance.yahoo.com/quote/%5EAXJO/history/?period1=1761091200&period2=1792627200
